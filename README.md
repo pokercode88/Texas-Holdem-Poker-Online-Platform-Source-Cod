@@ -103,23 +103,13 @@ Supports:
 - ✔ Tournament fees (报名费)  
 - ✔ Club system revenue (俱乐部收益)  
 
----
 ## 📸 界面截图 | Screenshots
-### Game Lobby
-![Game Lobby](screenshots/lobby1.png)
-![Game Lobby 2](screenshots/lobby2.png)
 
-### Table Gameplay
-![Texas Hold'em Table](screenshots/table-play.png)
-![Short Deck Table](screenshots/short-deck.png)
+![Game Lobby](screenshots/531317404-fe86ff5f-369b-4e83-b985-d6a3f6a819b2.png)
+![Game Lobby 2](screenshots/531317422-f20a1633-64d0-4e3d-befc-08bc7e848500.png)
 
-### Club & Alliance
-![Club System](screenshots/club.png)
-![Alliance Ranking](screenshots/alliance.png)
 
-### More Screenshots
-![Payment Interface](screenshots/payment.png)
-![Tournament](screenshots/mtt.png)
+![Texas Hold'em Table](screenshots/531317428-eceb4d24-3fbf-4249-baf9-3ce7315f9ec8.png)
 
 
 ## ❓ 常见问题 | FAQ
