@@ -5,7 +5,9 @@
 **8种玩法 · 朋友局 · 俱乐部 · 联盟 · 防作弊系统**
 
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
+[![WebSocket](https://img.shields.io/badge/WebSocket-RFC--6455-orange.svg)](https://tools.ietf.org/html/rfc6455)
 **简体中文 · 繁體中文 · English**
 
 </div>
@@ -16,9 +18,6 @@
 🔥 Already used in real poker projects ｜ 已应用于真实扑克项目 ｜ 已應用於真實撲克項目  
 🔥 Contact now for full source code & live demo ｜ 联系获取完整源码及在线演示 ｜ 聯絡獲取完整源碼及在線演示  
 
-Build your own profitable poker platform faster than ever.  
-几天即可搭建自己的盈利德州扑克平台。  
-幾天即可搭建自己的盈利德州撲克平台。
 ## 🚀 Introduction | 项目介绍 | 專案介紹
 
 This project is a complete Texas Hold'em poker system, suitable for building online poker platforms.  
