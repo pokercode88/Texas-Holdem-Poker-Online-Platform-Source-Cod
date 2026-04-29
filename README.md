@@ -91,30 +91,12 @@ Supports:
 
 ---
 
-## 🏗️ 技术架构 | Tech Stack
 
-| 模块 | 技术 |
-|:---|:---|
-| 客户端引擎 | Unity |
-| 服务端语言 | C++ |
-| 网络框架 | 高性能异步框架 |
-| 数据库 | MySQL + Redis |
 
----
-## 🧩 System Modules | 系统模块 | 系統模組
-- 🎮 Game Engine (核心游戏逻辑)
-- 📱 Web & Mobile Client
-- 🏆 Tournament / Club System
-- 💰 Payment & Rake System
-- 🛠 Admin Panel
-- 📊 Analytics & Statistics
+## 💬 Contact | 联系方式 | 聯絡方式
 
-  ## ⚙️ Technical Highlights | 技术亮点 | 技術亮點
-- ⚡ High-performance C++ game engine
-- 📡 Low-latency networking (WebSocket)
-- 🔒 Secure payment & anti-cheat
-- 🧩 Scalable backend for high concurrency
-
+📧 Email: ttpoker40@gmail.com  
+💬 Telegram: @alibabama401  
   
 ## 💰 Monetization Model | 盈利模式 | 盈利模式
 
@@ -124,24 +106,22 @@ Supports:
 
 ---
 ## 📸 界面截图 | Screenshots
+### Game Lobby
+![Game Lobby](screenshots/lobby1.png)
+![Game Lobby 2](screenshots/lobby2.png)
 
-> **请将你的游戏截图拖拽到下方**（建议：游戏大厅、牌桌对战、俱乐部界面各一张）
+### Table Gameplay
+![Texas Hold'em Table](screenshots/table-play.png)
+![Short Deck Table](screenshots/short-deck.png)
 
-| 游戏大厅 | 牌桌对战 | 俱乐部联盟 |
-|:---:|:---:|:---:|
-![011](https://github.com/user-attachments/assets/0508885a-6c34-466d-8fe0-b4424b7e4838)
-![08](https://github.com/user-attachments/assets/08b1c239-a37e-479b-9a3e-d92f301a9a43)
-![07-亮手牌](https://github.com/user-attachments/assets/04ee5e58-f82a-49aa-a044-f4cea7a8f101)
-![06-9人桌](https://github.com/user-attachments/assets/f365220b-01ce-425b-b07a-bcb205ac7bcc)
-![03](https://github.com/user-attachments/assets/2d190537-3d80-470b-a586-8063a16276dd)
-![01](https://github.com/user-attachments/assets/c7b10739-b6bd-42ce-bff5-44969dd14a53)
-![方案1](https://github.com/user-attachments/assets/f1ac6bab-e49f-40e4-979c-f8fa486aadbc)
+### Club & Alliance
+![Club System](screenshots/club.png)
+![Alliance Ranking](screenshots/alliance.png)
 
----
+### More Screenshots
+![Payment Interface](screenshots/payment.png)
+![Tournament](screenshots/mtt.png)
 
-## 🚀 快速体验 | Quick Start
-
----
 
 ## ❓ 常见问题 | FAQ
 
@@ -157,23 +137,15 @@ A：包含。完整朋友局、散人桌、俱乐部、联盟功能。
 **Q4：可以二次开发吗？**  
 A：可以。源码支持功能扩展和 UI 定制。
 
-**Q5：提供部署服务吗？**  
-A：提供。购买后可远程协助部署。
 
 ---
 
 <div align="center">
 
-**如果这个项目对你有帮助，欢迎点个 Star 支持一下！**  
-⭐️ **Star** ⭐️
 
 
 ---
 
-## 💬 Contact | 联系方式 | 聯絡方式
-
-📧 Email: ttpoker40@gmail.com  
-💬 Telegram: @alibabama401  
 
 ---
 
@@ -182,6 +154,10 @@ A：提供。购买后可远程协助部署。
 For educational purposes only.  
 仅供学习参考，请遵守法律法规。  
 僅供學習用途，請遵守法律法規。
+
+
+**如果这个项目对你有帮助，欢迎点个 Star 支持一下！**  
+⭐️ **Star** ⭐️
 ## 🔍 Keywords (SEO) | 关键词 | 關鍵字
 
 Texas Hold'em source code, poker game source code, online poker software, casino game system, poker engine, multiplayer poker server,  
